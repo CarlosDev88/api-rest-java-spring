@@ -11,8 +11,10 @@ Aplicación en Java que a través de peticiones HTTP se obtiene una lista de emp
 * CSS con Bootstrap
 * JavaScript
 * MySQL
+
+
 Links del video explicativo y el código
-Link del video explicando la aplicación y demostrando su funcionamiento 
+
 https://drive.google.com/file/d/14Dq8ZTd65Y17WDMDwdxTAOEH8GurR_RV/view?u
 sp=sharing
 
